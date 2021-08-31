@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bethel
-- 👀 I’m interested in the future of work and innovation
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript related projects
+- 👀 I’m interested in the future of work, transportation and innovation
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on PHP related projects
 - 📫 How to reach me bethel.iru@gmail.com
 
 <!---
